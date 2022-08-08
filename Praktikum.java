@@ -3,3 +3,4 @@ public static class Practikum {
         
     }
 }
+public static class Tyu {}
